@@ -305,7 +305,7 @@
 	 ###################################################################### -->
 						<div class="col1" style="border:0px dotted black;">
 							<!-- Column 1 start -->
-							<!--xsl:call-template name="debug"/-->
+							<xsl:call-template name="debug"/>
 							<xsl:text> </xsl:text>
 							<!-- avoid an empty div tag -->
 
