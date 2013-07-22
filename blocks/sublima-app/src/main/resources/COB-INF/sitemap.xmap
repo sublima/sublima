@@ -21,6 +21,7 @@
                 <map:doctype-public>-//W3C//DTD XHTML 1.0 Strict//EN</map:doctype-public>
                 <map:doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd</map:doctype-system>
                 <map:encoding>UTF-8</map:encoding>
+                <indent>yes</indent>
             </map:serializer>
 
             <map:serializer name="html" mime-type="text/html; charset=UTF-8"
