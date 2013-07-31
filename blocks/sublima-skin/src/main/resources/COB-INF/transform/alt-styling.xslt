@@ -221,7 +221,7 @@ PVJ: Made the file UTF-8
 	 ###################################################################### -->
 				<div id="innerMidCol" class="col1" style="border:0px dotted red;">
 
-					<xsl:call-template name="debug"/>
+					<!--xsl:call-template name="debug"/-->
 
 					<!-- Search -->
 					<!-- Search is shown when advanced search is not, and when there are no static content -->
